@@ -1,6 +1,5 @@
+import 'package:user_repository/user_repository.dart';
 import 'package:uuid/uuid.dart';
-
-import '../models/models.dart';
 
 class UserRepository {
   User? _user;
